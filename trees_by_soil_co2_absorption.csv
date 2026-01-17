@@ -1,0 +1,10 @@
+Soil_Type,Tree_Species,Average_CO2_Absorption_kg_per_year,Primary_Reason
+Sandy,Maritime Pine (Pinus pinaster),50,Fast growth and high biomass in poor sandy soils
+Clay,Poplar (Populus spp.),70,Extremely rapid growth and tolerance of heavy wet soils
+Loam,Oak (Quercus robur),80,Large mature size and long-term carbon storage
+Chalky/Alkaline,Beech (Fagus sylvatica),65,Dense wood and strong growth in alkaline soils
+Peaty,Alder (Alnus glutinosa),50,Thrives in wet acidic soils and fixes nitrogen
+Rocky/Shallow,Juniper (Juniperus spp.),25,Hardy and long-lived in thin soils
+Acidic,Douglas Fir (Pseudotsuga menziesii),85,Very high biomass and growth rate
+Wet/Floodplain,Willow (Salix spp.),60,Rapid growth in saturated soils
+Urban/Compacted,London Plane (Platanus × acerifolia),70,Large canopy and pollution tolerance
